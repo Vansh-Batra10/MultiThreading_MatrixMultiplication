@@ -22,11 +22,11 @@ The purpose of this project is to analyze the impact of varying the number of th
 | Time (seconds) | 100.7888 | 51.1994 | 35.939 | 31.1437 | 23.2135 | 18.0904 | 15.3677 | 13.3793 | 11.0482 | 14.3701 | 10.4843 | 9.1431 | 8.137 | 8.3911 | 14.5163 |
 
 ### Visualization
-!(graph.png)
+![](graph.png)
 
 ### Resource monitor
-!(rm0.png)
-!(rm1.png)
-!(rm2.png)
+![](rm0.png)
+![](rm1.png)
+![](rm2.png)
    
 
